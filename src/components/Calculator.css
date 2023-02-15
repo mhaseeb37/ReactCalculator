@@ -1,0 +1,28 @@
+.inputNumber input{
+    text-align: right;
+    font-size: 32px;
+    line-height: 38px;
+    font-weight: 500;
+    background: #858693;
+    color: #fff;
+}
+.btn-cal button {
+    width: 100%;
+    margin: 5px auto;
+    color: #3b3b3c;
+    font-size: 26px;
+    line-height: 32px;
+    font-weight: 500;
+}
+.opBtn.btn-cal button {
+    background: #E0E0E0;
+    border: 1px solid #E0E0E0;
+}
+.opBtn.btn-cal button:hover{
+    color: #000;
+    background: #e0e0e0b3;
+}
+.funcBtn.btn-cal button {
+    background: #F4913E;
+    border: 1px solid #F4913E;
+}
